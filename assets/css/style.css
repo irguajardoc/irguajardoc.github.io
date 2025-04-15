@@ -1,0 +1,28 @@
+body {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .card-title {
+    font-weight: 500;
+  }
+  
+  .card-text {
+    color: #707070;
+  }
+  
+  footer {
+    font-size: 0.9rem;
+  }
+  
+  .navbar-brand img {
+    width: 50%; 
+    
+  }
+
+  .verdecolor{
+    background-color: #28a745;
+  }
+
+  .texver{
+    color:#28a745
+  }
