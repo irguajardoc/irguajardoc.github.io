@@ -1,28 +1,23 @@
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: "Raleway", sans-serif;
   }
   
-  .card-title {
-    font-weight: 500;
+  
+  #fondo {
+    background-image: url("../img/Fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+  }
+ 
+  .logo-navbar img{
+    width: 40%;
   }
   
-  .card-text {
-    color: #707070;
-  }
-  
-  footer {
-    font-size: 0.9rem;
-  }
-  
-  .navbar-brand img {
-    width: 50%; 
-    
+  .justif{
+    text-align: justify;
   }
 
-  .verdecolor{
-    background-color: #28a745;
-  }
-
-  .texver{
-    color:#28a745
-  }
+ 
+  
+ 
