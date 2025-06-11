@@ -1,0 +1,19 @@
+body {
+    font-family: "Raleway", sans-serif;
+  }
+  
+  
+  #fondo {
+    background-image: url("../img/Fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+  }
+ 
+  .logo-navbar img{
+    width: 40%;
+  }
+  
+  .justif{
+    text-align: justify;
+  }  
